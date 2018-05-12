@@ -1,0 +1,31 @@
+_repo: L--cuy-re_38712
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bourget, Paul
+    aliases:
+    - Bourget, Charles Joseph Paul
+    - Bourget, Paul Charles Joseph
+    birthdate: 1852
+    deathdate: 1935
+    gutenberg_agent_id: '1346'
+    url: http://www.gutenberg.org/2009/agents/1346
+    wikipedia: http://en.wikipedia.org/wiki/Paul_Bourget
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2012-01-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38712'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PQ'
+title: L'Écuyère
+url: http://www.gutenberg.org/ebooks/38712
